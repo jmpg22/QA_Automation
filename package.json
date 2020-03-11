@@ -1,0 +1,15 @@
+{
+  "name": "projectsjs",
+  "version": "1.0.0",
+  "description": "sample test js & mocha",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}
